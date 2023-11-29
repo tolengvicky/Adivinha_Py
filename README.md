@@ -2,3 +2,4 @@
 Primeiros testes com Python
 
 Criação e aprimoramento de um jogo de adivinhação simples.
+- Utilizando o IDE PyCharm.
