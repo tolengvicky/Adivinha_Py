@@ -11,6 +11,7 @@ while (rodada <= total_de_tentativas):
     chute = int(chute_str)
 
     numero_secreto = random.randrange(1,101)
+    print=(numero_secreto)
 
     acertou = numero_secreto == chute
     maior = chute > numero_secreto
